@@ -1,0 +1,4 @@
+Per far partire l'applicazione, si deve aprire un'altro terminale nell'area di sviluppo e 
+fare le premesse necessarie(nodemon) per cosi definire tutte le rotte necessarie.
+terminale1 : nodemon index.js
+terminale2 : nodemon server.js
